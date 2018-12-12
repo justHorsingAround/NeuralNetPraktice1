@@ -23,6 +23,10 @@ namespace WpfApp1
         public MainWindow()
         {
             InitializeComponent();
+            MessageBox.Show(new Brain().TestFunction().ToString());
+            
+
+            
         }
     }
 }

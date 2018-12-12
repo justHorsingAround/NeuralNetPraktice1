@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{568D2D61-63DB-4A49-B5F6-0D29265C1922}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brain", "Brain\Brain.csproj", "{27BBB9DA-5730-4DB4-899A-B52C86FCB44C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrainTest", "BrainTest\BrainTest.csproj", "{BCE499B6-A69E-4522-80AB-F49AADF99F89}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{568D2D61-63DB-4A49-B5F6-0D29265C1922}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{568D2D61-63DB-4A49-B5F6-0D29265C1922}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{568D2D61-63DB-4A49-B5F6-0D29265C1922}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27BBB9DA-5730-4DB4-899A-B52C86FCB44C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27BBB9DA-5730-4DB4-899A-B52C86FCB44C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27BBB9DA-5730-4DB4-899A-B52C86FCB44C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27BBB9DA-5730-4DB4-899A-B52C86FCB44C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCE499B6-A69E-4522-80AB-F49AADF99F89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCE499B6-A69E-4522-80AB-F49AADF99F89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCE499B6-A69E-4522-80AB-F49AADF99F89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCE499B6-A69E-4522-80AB-F49AADF99F89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
